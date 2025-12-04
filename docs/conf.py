@@ -4,9 +4,9 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('.'))
 
-project = 'My Anywhere'
+project = 'MWB Bytes Waremal'
 copyright = '2025'
-author = 'Glen Duncan'
+author = 'Guy Aitchison'
 
 release = '1.0'
 
